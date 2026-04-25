@@ -17,7 +17,7 @@ Built as a learning project to explore Swift and SwiftUI concepts.
 - **Home** — difficulty selector and best score
 - **Game** — card grid with stats bar
 - **Win** — score summary and play again
-- 
+  
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-25 at 12 13 48" src="https://github.com/user-attachments/assets/001abc86-daeb-432a-823c-61edfac9cf06" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-04-25 at 12 14 51" src="https://github.com/user-attachments/assets/0732866f-27af-4767-b684-207c9da3cf46" />
 
